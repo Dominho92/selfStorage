@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_animate/flutter_animate.dart';
 import 'package:me_storage/home/styles/styles.dart';
-import 'package:me_storage/home/widgets/register_field.dart';
 import 'package:me_storage/home/widgets/register_switch.dart';
 
 class EnterScreen extends StatefulWidget {
